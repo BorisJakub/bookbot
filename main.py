@@ -1,4 +1,4 @@
-def get_text_from_file(path):
+def get_text_from_file(path): #function take as argument path to file and return text from file
     try:
         with open(path) as f:
             return f.read()
@@ -9,8 +9,8 @@ def get_text_from_file(path):
         print(f"An error occured: {e}")
         return None
 
-def text_to_list(book_text):
-    w_count = book_text.split()
+def count_word_in_text(text): # function take text as argument and count how many words is in
+    w_count = text.split()
     return len(w_count)
     
 
@@ -23,7 +23,7 @@ def main():
         if file_contents:
             print("File successfully read. Here are the contents:\n")
             print(file_contents)
-            words_count = text_to_list(file_contents)
+            words_count = count_word_in_text(file_contents)
             print(f"Did you know this book have word number equal: ")
             print(words_count)
         if len(file_contents) == 0:
