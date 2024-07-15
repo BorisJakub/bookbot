@@ -1,1 +1,29 @@
-[{'char': 'e', 'num': 46043}, {'char': 't', 'num': 30365}, {'char': 'a', 'num': 26743}, {'char': 'o', 'num': 25225}, {'char': 'i', 'num': 24613}, {'char': 'n', 'num': 24367}, {'char': 's', 'num': 21155}, {'char': 'r', 'num': 20818}, {'char': 'h', 'num': 19725}, {'char': 'd', 'num': 16863}, {'char': 'l', 'num': 12739}, {'char': 'm', 'num': 10604}, {'char': 'u', 'num': 10407}, {'char': 'c', 'num': 9243}, {'char': 'f', 'num': 8731}, {'char': 'y', 'num': 7914}, {'char': 'w', 'num': 7638}, {'char': 'p', 'num': 6121}, {'char': 'g', 'num': 5974}, {'char': 'b', 'num': 5026}, {'char': 'v', 'num': 3833}, {'char': 'k', 'num': 1755}, {'char': 'x', 'num': 677}, {'char': 'j', 'num': 504}, {'char': 'q', 'num': 324}, {'char': 'z', 'num': 243}]
+Character Counts: 
+{'char': 'e', 'num': 46043}
+{'char': 't', 'num': 30365}
+{'char': 'a', 'num': 26743}
+{'char': 'o', 'num': 25225}
+{'char': 'i', 'num': 24613}
+{'char': 'n', 'num': 24367}
+{'char': 's', 'num': 21155}
+{'char': 'r', 'num': 20818}
+{'char': 'h', 'num': 19725}
+{'char': 'd', 'num': 16863}
+{'char': 'l', 'num': 12739}
+{'char': 'm', 'num': 10604}
+{'char': 'u', 'num': 10407}
+{'char': 'c', 'num': 9243}
+{'char': 'f', 'num': 8731}
+{'char': 'y', 'num': 7914}
+{'char': 'w', 'num': 7638}
+{'char': 'p', 'num': 6121}
+{'char': 'g', 'num': 5974}
+{'char': 'b', 'num': 5026}
+{'char': 'v', 'num': 3833}
+{'char': 'k', 'num': 1755}
+{'char': 'x', 'num': 677}
+{'char': 'j', 'num': 504}
+{'char': 'q', 'num': 324}
+{'char': 'z', 'num': 243}
+Words Counts: 
+77986
